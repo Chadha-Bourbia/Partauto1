@@ -43,3 +43,11 @@ Screen2 As screen:
         Y: =57
         ZIndex: =9
 
+    Button1 As button:
+        Height: =144
+        Text: ="Bouton"
+        Width: =304
+        X: =969
+        Y: =561
+        ZIndex: =10
+
