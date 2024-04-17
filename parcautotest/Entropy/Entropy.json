@@ -3,21 +3,22 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Dropdown1": 10,
+    "Button1": 14,
+    "Dropdown1": 11,
     "Host": 3,
     "Image2": 6,
     "Label1": 8,
-    "Label2": 11,
-    "Label3": 12,
-    "Label4": 13,
+    "Label2": 12,
+    "Label3": 13,
+    "Label4": 9,
     "navigate": 5,
     "Screen1": 4,
     "Screen2": 7,
-    "TextInput2": 9
+    "TextInput2": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:37:14",
+  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:39:21",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a1bc1795-22d8-42ae-a967-07d899d31986": "\"/providers/microsoft.powerapps/apis/shared_microsofttranslator/connections/ad713f659d954e938c128c7992e96273\"",
@@ -46,6 +47,7 @@
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Button1": {},
     "Dropdown1": {},
     "Host": {},
     "Image2": {},
@@ -62,6 +64,7 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Button1": 0,
     "Dropdown1": 5,
     "Host": 0,
     "Image2": 1,
@@ -80,16 +83,16 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1244191,
+    "AnalysisLoadTime": 0.1297147,
     "ControlCount": {
       "button": 1,
       "dropdown": 1,
       "image": 1,
-      "label": 1,
+      "label": 4,
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 0.6236497
+    "DeserializationLoadTime": 0.6995959
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
