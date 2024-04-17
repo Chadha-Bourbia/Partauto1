@@ -17,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:36:45",
+  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:37:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a1bc1795-22d8-42ae-a967-07d899d31986": "\"/providers/microsoft.powerapps/apis/shared_microsofttranslator/connections/ad713f659d954e938c128c7992e96273\"",
@@ -62,17 +62,17 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Dropdown1": 4,
+    "Dropdown1": 5,
     "Host": 0,
     "Image2": 1,
     "Label1": 2,
-    "Label2": 5,
-    "Label3": 0,
-    "Label4": 0,
+    "Label2": 6,
+    "Label3": 7,
+    "Label4": 3,
     "navigate": 0,
     "Screen1": 0,
     "Screen2": 0,
-    "TextInput2": 3
+    "TextInput2": 4
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
